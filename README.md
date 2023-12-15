@@ -32,9 +32,9 @@ https://coding-boot-camp.github.io/full-stack/heroku/how-to-install-the-heroku-c
 
 ## Deployment
 
-Heroku Deployed URL: https://challange11-express-note-taker-2c1edeb64088.herokuapp.com/notes
+Heroku Deployed URL: https://challange11-express-note-taker-2c1edeb64088.herokuapp.com/
 
-GitHub Repository:
+GitHub Repository: https://github.com/kazmiali123/Challange11-Express-Note-Taker.git
 
 ## Demo
 
